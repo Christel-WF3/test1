@@ -12,6 +12,7 @@
     <main>
         <section>
         <h2>Titre 2</h2>
+        <p>Lorem ipsum dolor sit amet consectetur.</p>
         </section>
     </main>
     <footer>
